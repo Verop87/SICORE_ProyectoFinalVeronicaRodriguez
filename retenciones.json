@@ -1,0 +1,27 @@
+[
+    {
+        "codigo":78,
+        "minimo":224000,
+        "porcentaje":0.02,
+        "nombre":"Enajenación de bienes muebles"
+    },
+    {
+        "codigo":94,
+        "minimo":67170,
+        "porcentaje":0.02,
+        "nombre":"Locación de obras y servicios"
+    },
+    {
+        "codigo":95,
+        "minimo":67170,
+        "porcentaje":0.0025,
+        "nombre":"Transporte de carga nacional e internacional"
+    },
+    {
+        "codigo":30,
+        "minimo":11200,
+        "porcentaje":0.06,
+        "nombre":"Alquileres o arrendamientos de bienes muebles"
+    }
+]
+
